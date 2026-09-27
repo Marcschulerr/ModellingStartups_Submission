@@ -1,0 +1,8 @@
+"stratum","group","n","share_late_entry","p_private_24m"
+"noprior","control",874,0.908466819221968,0.541189931350114
+"noprior","treated",223,0.488789237668161,0.322869955156951
+"prior","control",877,0,0.494868871151653
+"prior","treated",230,0,0.58695652173913
+"noprior","control_late_entry",794,1,0.52896725440806
+"noprior","control_early_entry",80,0,0.6625
+"noprior","control_early_via_cb_grant",47,0.5875,NA

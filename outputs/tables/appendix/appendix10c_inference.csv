@@ -1,0 +1,4 @@
+Standard errors,Difference (pp),95% CI
+Clustered by set (main),−6.08*,"[−11.18, −0.97]"
+"Two-way, set and firm",−6.08*,"[−11.29, −0.86]"
+Heteroskedasticity-robust,−6.08*,"[−11.17, −0.98]"

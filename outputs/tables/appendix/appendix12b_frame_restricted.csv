@@ -1,0 +1,10 @@
+,Canonical,Controls in frame before award,Both sides in frame before award
+"ATT, any private round ≤ 24 months (M1)","−6.08* [−11.18, −0.97]","+6.87* [+0.30, +13.45]","+7.61* [+0.91, +14.31]"
+ATT + founder controls (M2),"−7.95** [−12.93, −2.97]","+4.94 [−1.53, +11.41]","+5.45 [−1.14, +12.05]"
+Transition hazard ratio,"0.747*** [0.650, 0.858]","1.298** [1.078, 1.562]","1.327** [1.101, 1.600]"
+No prior private round,"−21.76*** [−28.70, −14.82]","−15.52 [−34.73, +3.70]","−15.38 [−40.05, +9.28]"
+Prior private round,"+9.27** [+2.33, +16.21]","+9.27** [+2.33, +16.21]","+9.27** [+2.33, +16.21]"
+Difference (prior − no prior),"+31.03*** [+21.22, +40.83]","+24.78* [+4.66, +44.90]","+24.65 [−0.34, +49.64]"
+Award-size difference (small − large),"−13.32* [−25.12, −1.53]","−6.65 [−20.59, +7.29]","−8.74 [−22.77, +5.28]"
+Matched sets,453,267,255
+   of which no prior private round,223,37,25

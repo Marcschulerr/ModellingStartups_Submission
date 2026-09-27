@@ -1,0 +1,8 @@
+Variable,Treated mean,Control mean,Standardized difference
+Any private round before award,0.508,0.501,+0.014
+Any private round in prior 12 months,0.364,0.360,+0.008
+Pre-award private-round count,0.757,0.784,−0.027
+Age at award (months),22.9,22.7,+0.015
+Number of founders,2.335,2.111,+0.197
+Founders missing,0.097,0.126,−0.092
+Number of industry tags,3.631,3.826,−0.098

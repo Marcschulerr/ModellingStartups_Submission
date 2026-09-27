@@ -1,0 +1,6 @@
+stage,total,circ,non_circ
+all firms (raw),25421,4548,20873
+founding cohorts 2016-2022,22149,4017,18132
++ present in panel_fat  (= analysis dataframe),22039,3997,18042
+      of which verified EU grant (has_grant),1661,559,1102
+      of which SME-Instrument/EIC first grant,834,263,571

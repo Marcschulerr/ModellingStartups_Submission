@@ -1,0 +1,5 @@
+scheme_group,fp_x,participations,firms,circ_firms,mono_share,median_ec,yr_min,yr_max,dated,signed
+EIC,HORIZON,483,449,159,0.75,2479750.0,2021,2026,1.0,1.0
+SME-Instrument,h2020,603,543,157,0.95,50000.0,2014,2021,1.0,1.0
+other,HORIZON,1491,876,312,0.05,264000.0,2021,2027,1.0,1.0
+other,h2020,964,419,125,0.03,240000.0,2014,2022,1.0,1.0

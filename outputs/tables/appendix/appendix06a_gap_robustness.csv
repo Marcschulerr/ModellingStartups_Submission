@@ -1,0 +1,11 @@
+Variant,Difference (pp),Hazard ratio,n
+Main specification,"−2.42** [−4.14, −0.70]","0.946* [0.906, 0.989]","16,615"
+Country-clustered standard errors,"−2.42* [−4.19, −0.65]","0.946** [0.914, 0.980]","16,615"
+"Logit, average marginal effect",−2.4,,"16,505"
+High-confidence classifier subsample (≥ 0.8),"−2.94** [−4.91, −0.97]","0.937* [0.892, 0.985]","15,772"
+"Full panel, January-imputed months","−2.96*** [−4.51, −1.42]","0.941** [0.905, 0.977]","22,039"
+Random month within founding year,"−2.37** [−3.93, −0.80]","0.961* [0.924, 0.998]","22,039"
+Pre-registration rounds as month-0 events,"−2.64** [−4.34, −0.94]","0.938** [0.898, 0.980]","16,615"
+Censored at register dissolution,,"0.944* [0.904, 0.986]","16,615"
+Firms with ≥ 1 private round by 2026 only,"−2.67** [−4.31, −1.02]",,"15,288"
+Yearly discrete-time model (cloglog),,"0.930*** [0.895, 0.966]","22,039"

@@ -1,0 +1,9 @@
+group,n_controls,n_sets,share
+consortium,1,12,0.0273
+consortium,2,12,0.0273
+consortium,3,16,0.0364
+consortium,4,399,0.9089
+sme_eic,1,13,0.0217
+sme_eic,2,18,0.03
+sme_eic,3,14,0.0233
+sme_eic,4,555,0.925

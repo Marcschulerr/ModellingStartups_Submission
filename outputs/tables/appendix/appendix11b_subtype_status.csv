@@ -1,0 +1,7 @@
+Subtype (n),Closed (%),Dead by any signal (%),"S2 difference vs. non-circular, dead by any signal (pp)"
+Waste-based (337),1.8,15.4,"−10.92*** [−15.01, −6.84]"
+Nature-based (574),1.6,15.7,"−9.44*** [−12.63, −6.25]"
+Design-based (801),2.2,14.9,"−11.04*** [−13.80, −8.27]"
+Service-based (558),3.9,18.8,"−9.46*** [−12.86, −6.06]"
+Platform-based (774),6.7,26.5,"−3.52* [−6.74, −0.30]"
+"Non-circular (13,571)",7.2,27.6,(reference)

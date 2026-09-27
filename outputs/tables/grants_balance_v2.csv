@@ -1,0 +1,13 @@
+group,variable,mean_treated,mean_control,std_diff
+sme_eic,pre_n_private,0.9248,0.9368,-0.0107
+sme_eic,pre12_any_private,0.3885,0.3907,-0.0045
+sme_eic,n_founders,2.2777,2.1573,0.1088
+sme_eic,n_industries,3.5144,3.7578,-0.1278
+sme_eic,founding_month_imputed,0.1655,0.2691,-0.2532
+sme_eic,grant_age_m,29.2955,28.9996,0.0167
+consortium,pre_n_private,1.1503,1.1955,-0.0379
+consortium,pre12_any_private,0.361,0.3635,-0.0052
+consortium,n_founders,2.3143,2.1083,0.177
+consortium,n_industries,3.6539,3.6888,-0.019
+consortium,founding_month_imputed,0.1468,0.2682,-0.3025
+consortium,grant_age_m,37.7202,37.4209,0.0148

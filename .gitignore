@@ -1,0 +1,21 @@
+# Data ships separately (licensed Crunchbase + registry bulks).
+data/
+
+# Secrets; ship keys.env.example instead.
+keys.env
+
+# Firm-level intermediate written by sequencing_stats.py on a rerun
+# (licensed Crunchbase identifiers, must never be committed).
+outputs/tables/prefounding_private.csv
+
+# OS / editor / interpreter junk.
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+
+# NOTE: outputs/ is intentionally tracked; the estimate CSVs, appendix
+# tables and final figures behind every thesis number ship with the code.

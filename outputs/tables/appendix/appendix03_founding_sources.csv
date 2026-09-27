@@ -1,0 +1,22 @@
+Country,Register,Firms in panel,Month from Crunchbase,Month from register,Month from website,Not verified,Verified (%)
+AT,Orbis,282,151,27,23,81,71.3
+BE,KBO/CBE Open Data,433,219,94,18,102,76.4
+CH,Orbis,"1,350",551,233,77,489,63.8
+DE,OpenCorporates; Orbis,"2,344","1,121",757,52,414,82.3
+DK,CVR,537,234,183,19,101,81.2
+EE,e-Business Register,451,266,54,12,119,73.6
+ES,Orbis,"1,712",726,450,46,490,71.4
+FI,PRH,459,244,120,9,86,81.3
+FR,Sirene; Orbis (residuals),"2,795",968,"1,210",59,558,80.0
+IE,OpenCorporates,39,15,11,2,11,71.8
+IT,Orbis,"1,078",554,296,25,203,81.2
+LT,—,211,99,0,28,84,60.2
+LU,OpenCorporates,116,52,7,12,45,61.2
+LV,Register of Enterprises (UR),123,67,2,5,49,60.2
+NL,Orbis,"1,146",548,345,18,235,79.5
+NO,Brønnøysund Register,408,191,100,11,106,74.0
+PL,—,602,313,0,26,263,56.3
+PT,Orbis,302,157,35,11,99,67.2
+SE,Orbis,"1,045",359,350,37,299,71.4
+UK,Companies House; Orbis (residuals),"6,606","2,987","1,887",142,"1,590",75.9
+Total,,"22,039","9,822","6,161",632,"5,424",75.4
